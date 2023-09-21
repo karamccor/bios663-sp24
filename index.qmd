@@ -1,5 +1,5 @@
 ---
-title: "Course Title"
+title: "BIOS 663: Intermediate Linear Models"
 ---
 
 Course info & details here
